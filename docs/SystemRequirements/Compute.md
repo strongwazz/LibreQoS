@@ -71,8 +71,8 @@ Officially supported Network Interface Cards for the two shaping interfaces are 
 
 | NIC Controller         | Port Speed       | Suggested Models                                                                        | Known Issues                                                                                  |
 |------------------------|------------------|-----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
-| Intel X520-DA2         | 10 Gbps          |                                                                                         | Module compatibility*                                                                         |
-| Intel X710-BM2         | 10 Gbps          | [X710-BM2 10G]( https://www.fs.com/products/75600.html?now_cid=4253)                    | Module compatibility*                                                                         |
+| Intel X520             | 10 Gbps          |                                                                                         | Module compatibility*                                                                         |
+| Intel X710             | 10 Gbps          | [X710-BM2 10G]( https://www.fs.com/products/75600.html?now_cid=4253)                    | Module compatibility*                                                                         |
 | Intel XXV710           | 10 / 25 Gbps     | [XXV710 25G](https://www.fs.com/products/75604.html?attribute=67774&id=1709896)         | Module compatibility*                                                                         |
 | Intel XL710            | 10 / 40 Gbps     | [XL710-BM2 40G](https://www.fs.com/products/75604.html?attribute=67774&id=1709896 )     | Module compatibility*                                                                         |
 | Mellanox ConnectX-4 Lx | 10/25/40/50 Gbps |                                                                                         | No known issues.                                                                              |
