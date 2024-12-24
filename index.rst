@@ -8,7 +8,7 @@ Welcome to the LibreQoS documentation!
 
 .. toctree::
    :maxdepth: 1
-   :caption: GitHub Readme:
+   :caption: Readme:
 
    README
 
@@ -45,10 +45,11 @@ Welcome to the LibreQoS documentation!
 
 .. toctree::
    :maxdepth: 1
-   :caption: v1.5/v2.0:
+   :caption: v2.0:
 
+   docs/v2.0/Quickstart/quickstart-prereq   
    docs/v2.0/Quickstart/quickstart-libreqos-2.0
-   docs/v2.0/Quickstart/quickstart-prereq
+   
    docs/v2.0/Quickstart/configuration
    docs/v2.0/Quickstart/services-and-run
    docs/v2.0/Quickstart/share
